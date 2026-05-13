@@ -21,12 +21,15 @@ ve main.py pythonla açıyoruz
 LINUX ICIN 
 
 apt install git
+
 apt install python3
-pip install kivy
-pip install colorama
-pip install requests
+
+pip install -r requirements.txt
+
 git clone https://github.com/pyvrax/Leonardo-Sms-Bomber.git
+
 cd Leonardo-Sms-Bomber
+
 python3 main.py
 
 BUNLARI TEK TEK YAPIN
